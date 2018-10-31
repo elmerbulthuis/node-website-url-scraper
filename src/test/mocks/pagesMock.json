@@ -1,0 +1,253 @@
+[
+   {
+      "key": "http://www.dustyfeet.com/",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/",
+         "requestTime": 232,
+         "links": [
+            "http://dustyfeetonline.com",
+            "notuncnj.html",
+            "http://www.nytimes.com/2006/08/28/technology/28link.html?scp=6&sq=%22stuart%20frankel%22&st=cse",
+            "diss.html",
+            "mykeyboardbaby1.html",
+            "./evil/evil.html",
+            "./pangan/index.html",
+            "./santanyi_registration.html",
+            "mailto:gecko@dustyfeet.com"
+         ],
+         "pageSize": 3108
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/notuncnj.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/notuncnj.html",
+         "requestTime": 114,
+         "links": [],
+         "pageSize": 675
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/mykeyboardbaby1.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/mykeyboardbaby1.html",
+         "requestTime": 235,
+         "links": [
+            "http://www.tabulatura.com",
+            "http://www.tabulatura.com/clavcho.htm",
+            "http://www.asahi-net.or.jp/~kh4h-okmt/",
+            "http://www.renwks.com/",
+            "http://zhi.net/",
+            "http://dalyharpsichords.com/keybd/index.htm",
+            "http://www.hubharp.com/glossary.htm",
+            "http://www.wunderground.com/global/stations/08545.html",
+            "http://www.atl-turismolisboa.pt/publications/Unforgettable/pag30_unfor.htm",
+            "images/Clav.1.jpg",
+            "images/clav3.jpg",
+            "./images/trenails.jpg",
+            "./images/Clav.2.jpg",
+            "./images/2=281.jpg",
+            "mykeyboardbaby2.html",
+            "mykeyboardbaby3.html",
+            "index.html"
+         ],
+         "pageSize": 12570
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/diss.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/diss.html",
+         "requestTime": 260,
+         "links": [
+            "./dissertation/abstract.html",
+            "./dissertation/1sthalf.pdf",
+            "./dissertation/2ndhalf.pdf",
+            "http://www.adobe.com/prodindex/acrobat/readstep.html",
+            "mailto:gecko@dustyfeet.com",
+            "index.html"
+         ],
+         "pageSize": 1929
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/./evil/evil.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/./evil/evil.html",
+         "requestTime": 273,
+         "links": [
+            "parasite.html",
+            "../index.html"
+         ],
+         "pageSize": 1580
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/./pangan/index.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/./pangan/index.html",
+         "requestTime": 302,
+         "links": [],
+         "pageSize": 197
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/./santanyi_registration.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/./santanyi_registration.html",
+         "requestTime": 412,
+         "links": [
+            "http://www.sonusparadisi.cz/project.1.asp",
+            "http://www.sonusparadisi.cz/organs/santanyi/history.0.asp",
+            "http://www.sonusparadisi.cz/project.2.asp",
+            "http://www.sonusparadisi.cz/organs/santanyi/history.4.asp",
+            "http://www.sonusparadisi.cz/project.3.asp",
+            "http://www.sonusparadisi.cz/project.5.asp",
+            "http://www.sonusparadisi.cz/project.6.asp",
+            "http://www.sonusparadisi.cz/organs/santanyi/history.7.asp",
+            "http://www.sonusparadisi.cz/project.0.asp",
+            "http://www.sonusparadisi.cz/organs.0.asp",
+            "http://www.sonusparadisi.cz/requirements.0.asp",
+            "http://www.sonusparadisi.cz/order.0.asp",
+            "http://www.sonusparadisi.cz/links.0.asp",
+            "http://www.sonusparadisi.cz/contacts.0.asp",
+            "http://www.sonusparadisi.cz/organs/santanyi/history.0.asp",
+            "http://www.sonusparadisi.cz/organs/santanyi/screenshots.0.asp",
+            "http://www.sonusparadisi.cz/organs/santanyi/pictures.0.asp",
+            "http://www.sonusparadisi.cz/organs/santanyi/demos.0.asp",
+            "http://homepage1.nifty.com/obuchi/Geigenwerk/index-e.htm",
+            "http://www.die-orgelseite.de/disp/E_Santanyi_SantAndreu.htm",
+            "http://www.grenzing.com/organosshow.cfm?id=10&ip=103&out=1",
+            "http://www.die-orgelseite.de/disp/E_Santanyi_SantAndreu.htm",
+            "http://www.grenzing.com/",
+            "http://www.ohscatalog.com/metinbook.html",
+            "http://dustyfeet.com/mykeyboardbaby1.html",
+            "mailto:gecko@dustyfeet.com"
+         ],
+         "pageSize": 36255
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/index.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/index.html",
+         "requestTime": 114,
+         "links": [
+            "http://dustyfeetonline.com",
+            "notuncnj.html",
+            "http://www.nytimes.com/2006/08/28/technology/28link.html?scp=6&sq=%22stuart%20frankel%22&st=cse",
+            "diss.html",
+            "mykeyboardbaby1.html",
+            "./evil/evil.html",
+            "./pangan/index.html",
+            "./santanyi_registration.html",
+            "mailto:gecko@dustyfeet.com"
+         ],
+         "pageSize": 3108
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/parasite.html",
+      "value": {
+         "statusCode": 404,
+         "pageErr": "Invalid status code 404",
+         "url": "http://www.dustyfeet.com/parasite.html",
+         "links": []
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/mykeyboardbaby2.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/mykeyboardbaby2.html",
+         "requestTime": 134,
+         "links": [
+            "./images/2=282.jpg",
+            "./images/Image43.jpg",
+            "./images/kb1.jpg",
+            "./images/ClavKeys1.jpg",
+            "images/Back_of_Clav._SB.jpg",
+            "images/Clav_Rib_Cut-out.jpg",
+            "images/Moment_of_Truth.jpg",
+            "images/Too_Late_Now.jpg",
+            "./images/A_Grand_Day_Out.jpg",
+            "mykeyboardbaby3.html",
+            "mykeyboardbaby1.html",
+            "index.html"
+         ],
+         "pageSize": 10215
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/mykeyboardbaby3.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/mykeyboardbaby3.html",
+         "requestTime": 123,
+         "links": [
+            "http://www.fortepiano.com",
+            "./images/wound.jpg",
+            "./images/Stringing_1.jpg",
+            "./images/Stringing_2.jpg",
+            "./images/Stringing_3.jpg",
+            "./images/Clavsmall.4.jpg",
+            "./images/Clavliz.jpg",
+            "./images/finalsmall.2.jpg",
+            "./images/finalsmall.4.jpg",
+            "mykeyboardbaby2.html",
+            "mykeyboardbaby1.html",
+            "index.html"
+         ],
+         "pageSize": 9765
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/../index.html",
+      "value": {
+         "statusCode": 400,
+         "pageErr": "Invalid status code 400",
+         "url": "http://www.dustyfeet.com/../index.html",
+         "links": []
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/./dissertation/abstract.html",
+      "value": {
+         "statusCode": 200,
+         "pageErr": null,
+         "url": "http://www.dustyfeet.com/./dissertation/abstract.html",
+         "requestTime": 149,
+         "links": [
+            "../diss.html"
+         ],
+         "pageSize": 3061
+      }
+   },
+   {
+      "key": "http://www.dustyfeet.com/../diss.html",
+      "value": {
+         "statusCode": 400,
+         "pageErr": "Invalid status code 400",
+         "url": "http://www.dustyfeet.com/../diss.html",
+         "links": []
+      }
+   }
+]

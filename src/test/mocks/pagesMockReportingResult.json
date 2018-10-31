@@ -1,0 +1,18 @@
+{
+  "workingPages": {
+    "count": 11,
+    "avgPageLoadTimeInMS": 213,
+    "avgPageSizeInBytes": 7496,
+    "avgLinksOnPage": 8,
+    "totalExternalLinks": 39,
+    "totalInternalLinks": 55
+  },
+  "failedPages": {
+    "count": 3,
+    "failedPagesResponseCodeHistogram": {
+      "400": 2,
+      "404": 1
+    }
+  },
+  "percentageWorking": "72.73%"
+}
