@@ -1,4 +1,4 @@
-const {expect} = require('chai');
+const { expect } = require('chai');
 const Task = require('../../models/Task');
 const queueService = require('../../services/queueService');
 
@@ -55,6 +55,4 @@ describe('Queue Service tests', async () => {
     const newQueueLength = queueService.getQueueLength();
     expect(newQueueLength).to.equal(0);
   });
-
-
 });

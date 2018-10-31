@@ -1,4 +1,4 @@
-const {expect} = require('chai');
+const { expect } = require('chai');
 
 const Page = require('../../models/Page');
 const reportingService = require('../../services/reportingService');
@@ -6,7 +6,7 @@ const reportingService = require('../../services/reportingService');
 const mockedPages = require('../mocks/pagesMock');
 const mockedPagesReportingResult = require('../mocks/pagesMockReportingResult');
 
-const mockedPagesAsPagesArray = mockedPages.map(({value: page}) => Page.createNewPageFromObject(page));
+const mockedPagesAsPagesArray = mockedPages.map(({ value: page }) => Page.createNewPageFromObject(page));
 const workingPages = reportingService.getWorkingPages(mockedPagesAsPagesArray);
 const failedPages = reportingService.getFailedPages(mockedPagesAsPagesArray);
 

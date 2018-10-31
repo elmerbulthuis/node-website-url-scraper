@@ -39,7 +39,7 @@ class Worker {
     if (taskBatch.length === 0) {
       return Promise.resolve();
     }
-    const promises = taskBatch.map(this.crawlPage);
+    const promises = taskBatch.map(Worker.crawlPage);
     await Promise.all(promises);
     return this.crawl();
   }
@@ -48,7 +48,7 @@ class Worker {
    * Crawl single page, store result & start new jobs according the to links on that page.
    * @param task {Task}
    */
-  async crawlPage(task) {
+  static async crawlPage(task) {
     try {
       const pageResult = await pageCrawlService.crawlPage(task.getUrl());
       localStorage.addItem(task.getUrl(), pageResult);

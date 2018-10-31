@@ -63,7 +63,6 @@ class PageCrawlService {
       }
       request(url, options, (err, response, body) => {
         if (err) {
-          console.log('err');
           return reject({ error: `Failed to load page, error: ${err}` });
         }
         if (response.statusCode !== 200) {

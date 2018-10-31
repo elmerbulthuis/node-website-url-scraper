@@ -39,7 +39,8 @@ class RobotsUrlChecker {
     if (!robots) {
       return true;
     }
-    return robots.isAllowed(url);
+    const isAllowed = robots.isAllowed(url);
+    return isAllowed === undefined ? true : isAllowed;
   }
 
   /**
