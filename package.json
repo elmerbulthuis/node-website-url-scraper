@@ -5,7 +5,8 @@
   "main": "src/main.js",
   "scripts": {
     "test": "mocha src/test --recursive",
-    "eslint": "eslint ./src/**/*.js --format table"
+    "eslint": "eslint ./src/**/*.js --format table",
+    "coverage": "nyc --reporter text-summary --reporter lcov --include \"src/**/*.js\" npm test"
   },
   "author": "",
   "license": "ISC",
@@ -23,6 +24,7 @@
     "eslint-config-base": "^1.0.0",
     "eslint-plugin-import": "^2.14.0",
     "mocha": "^5.2.0",
+    "nyc": "^13.1.0",
     "sinon": "^7.1.0",
     "sinon-chai": "^3.2.0"
   }
