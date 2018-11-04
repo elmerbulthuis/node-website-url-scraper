@@ -36,7 +36,7 @@ is provided as csv for easy processing.
 
 run is with
 ```
-node node src/benchmarks/lot-of-links.spec.js
+node node src/benchmarks/lot-of-links.js
 ```
 
 three random runs of this benchmark can be found [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRfxMjugLCP2cN1ZJ74QC7MU_tNBr_8Ql_3evsO5WN9nsktP69VpdFiTw6n_5OD2a4H0vqhmmMCj6GD/pubhtml).
