@@ -5,10 +5,12 @@ winston.add(new winston.transports.Console({
 }));
 class Logger {
   static log(...args) {
+    if (this.mute) return;
     winston.info(this.constructMessage(...args));
   }
 
   static error(...args) {
+    if (this.mute) return;
     winston.error(this.constructMessage(...args));
   }
 
